@@ -1,0 +1,12 @@
+2024-11-29 15:40:02 INFO     Starting k-nearest-neightbour
+2024-11-29 15:45:57 INFO     col_names: Index(['buying', 'maint', 'door', 'persons', 'lug_boot', 'safety', 'class'], dtype='object')
+2024-11-29 21:15:20 ERROR    No such comm target registered: jupyter.widget.control
+2024-11-29 21:15:20 WARNING  No such comm: 9127b124-8a3c-430f-9784-a51fbc7927d9
+2024-11-29 22:52:38 ERROR    No such comm target registered: jupyter.widget.control
+2024-11-29 22:52:38 WARNING  No such comm: 06e4d7f1-2374-42da-8072-089f4ea0c79c
+2024-11-30 08:03:31 ERROR    No such comm target registered: jupyter.widget.control
+2024-11-30 08:03:31 WARNING  No such comm: 7c79e7f1-b9be-48c3-ae3c-6b6012d56fc3
+2024-11-30 13:03:54 ERROR    No such comm target registered: jupyter.widget.control
+2024-11-30 13:03:54 WARNING  No such comm: 9cd9cfef-fb5b-4069-ba36-c9b06be8ce47
+2024-11-30 17:48:07 ERROR    No such comm target registered: jupyter.widget.control
+2024-11-30 17:48:07 WARNING  No such comm: ea907355-44ef-494c-847e-0cd087a7900c
